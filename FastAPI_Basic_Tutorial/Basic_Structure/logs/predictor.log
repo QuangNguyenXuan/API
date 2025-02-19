@@ -1,0 +1,22 @@
+2024-03-25 22:00:12,357 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-03-25 22:05:12,952 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-03-25 22:05:18,460 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-03-25 22:06:25,757 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-03-25 22:06:28,403 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-03-25 22:06:33,972 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-03-25 22:07:26,329 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-03-25 22:07:28,506 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-03-25 22:07:28,728 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Predictor name: resnet18
+2024-03-25 22:07:28,729 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Predicted Prob: 0.995269 -  Predicted ID: 1 -  Predicted Class: Dog
+2024-03-25 22:07:38,054 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-03-25 22:07:38,272 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Predictor name: resnet18
+2024-03-25 22:07:38,273 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Predicted Prob: 0.995269 -  Predicted ID: 1 -  Predicted Class: Dog
+2024-03-26 00:44:56,418 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-03-26 20:27:30,980 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-03-26 20:33:51,693 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Predictor name: resnet18
+2024-03-26 20:33:51,694 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Predicted Prob: 0.995269 -  Predicted ID: 1 -  Predicted Class: Dog
+2024-03-26 20:34:47,486 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Predictor name: resnet18
+2024-03-26 20:34:47,487 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Predicted Prob: 0.986414 -  Predicted ID: 1 -  Predicted Class: Dog
+2024-03-30 23:08:02,057 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-03-30 23:08:52,077 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Predictor name: resnet18
+2024-03-30 23:08:52,078 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/models/catdog_predictor.py - INFO - Predicted Prob: 0.995269 -  Predicted ID: 1 -  Predicted Class: Dog

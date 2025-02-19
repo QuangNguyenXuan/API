@@ -1,0 +1,22 @@
+2024-03-25 22:05:27,148 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/middleware/http.py - INFO - 127.0.0.1 - "GET / 1.1" 404 0.00s
+2024-03-25 22:05:29,854 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/middleware/http.py - INFO - 127.0.0.1 - "GET /docs 1.1" 200 0.00s
+2024-03-25 22:05:30,796 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/middleware/http.py - INFO - 127.0.0.1 - "GET /openapi.json 1.1" 200 0.00s
+2024-03-25 22:07:28,730 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/middleware/http.py - INFO - 127.0.0.1 - "POST /catdog_classification/predict 1.1" 200 0.02s
+2024-03-25 22:07:38,273 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/middleware/http.py - INFO - 127.0.0.1 - "POST /catdog_classification/predict 1.1" 200 0.02s
+2024-03-26 00:45:10,770 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/middleware/http.py - INFO - 127.0.0.1 - "GET /docs 1.1" 200 0.00s
+2024-03-26 00:45:10,894 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/middleware/http.py - INFO - 127.0.0.1 - "GET /openapi.json 1.1" 200 0.01s
+
+
+
+2024-03-26 20:30:20,395 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/middleware/http.py - INFO - 127.0.0.1 - "GET /docs 1.1" 200 0.00s
+2024-03-26 20:30:21,016 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/middleware/http.py - INFO - 127.0.0.1 - "GET /openapi.json 1.1" 200 0.00s
+2024-03-26 20:33:51,695 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/middleware/http.py - INFO - 127.0.0.1 - "POST /catdog_classification/predict 1.1" 200 0.13s
+2024-03-26 20:34:47,487 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/middleware/http.py - INFO - 127.0.0.1 - "POST /catdog_classification/predict 1.1" 200 0.04s
+2024-03-30 23:08:09,399 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/middleware/http.py - INFO - 127.0.0.1 - "GET / 1.1" 404 0.00s
+2024-03-30 23:08:09,450 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/middleware/http.py - INFO - 127.0.0.1 - "GET /favicon.ico 1.1" 404 0.00s
+2024-03-30 23:08:18,117 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/middleware/http.py - INFO - 127.0.0.1 - "GET /docs 1.1" 200 0.00s
+2024-03-30 23:08:18,614 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/middleware/http.py - INFO - 127.0.0.1 - "GET /openapi.json 1.1" 200 0.00s
+2024-03-30 23:08:52,078 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/middleware/http.py - INFO - 127.0.0.1 - "POST /catdog_classification/predict 1.1" 200 0.07s
+2024-03-30 23:26:53,074 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/middleware/http.py - INFO - 127.0.0.1 - "GET / 1.1" 404 0.02s
+2024-03-30 23:27:10,284 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/middleware/http.py - INFO - 127.0.0.1 - "GET / 1.1" 404 0.00s
+2024-03-30 23:27:11,241 - /Users/thangduong/Desktop/aio2023/module9/Exercise_API/FastAPI_Basic_Tutorial/Basic_Structure/middleware/http.py - INFO - 127.0.0.1 - "GET / 1.1" 404 0.00s
